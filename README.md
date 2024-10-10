@@ -31,7 +31,7 @@ Installation
    Open a terminal and clone the repository to your local machine using Git:
    ```bash
    git clone https://github.com/Shazab123ali/SecureCrypt.git
-   cd aes-encryption-tool
+   cd securecrypt
 Install the Dependencies: Make sure you have all the dependencies installed. If you haven't already installed pycryptodome, run:
   pip install pycryptodome
   Running the Tool
